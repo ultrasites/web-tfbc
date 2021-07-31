@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`web-tfbc should cache dom 1`] = `"  <span id=\\"username\\">  <button id=\\"button\\"></button></span>"`;
+
+exports[`web-tfbc should cache html file 1`] = `
+"<html>
+  <head></head>
+
+  <body>
+    Cached!
+  </body>
+</html>
+"
+`;
